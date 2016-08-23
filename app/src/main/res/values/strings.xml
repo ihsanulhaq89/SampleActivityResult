@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleActivityResult</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">2nd Activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
